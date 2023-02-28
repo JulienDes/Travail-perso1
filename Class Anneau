@@ -1,0 +1,11 @@
+public class Anneau
+{
+    // Variable d'instance
+    final byte diametre;
+
+    // Constructeur
+    public Anneau(byte diametre)
+    {
+        this.diametre = diametre;
+    }
+}
